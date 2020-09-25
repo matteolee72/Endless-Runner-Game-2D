@@ -1,5 +1,9 @@
 # Endless-Runner-Game-2D
 
+![Gameplay](/Screenshots/Gameplay.png)
+![Gameover](/Screenshots/Gameover.png)
+![Paused](/Screenshots/Paused.png)
+
 A 2D Endless Runner game created with the Unity Engine
 
 Features of the game include:
